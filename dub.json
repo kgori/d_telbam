@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"Kevin Gori"
+	],
+	"copyright": "Copyright © 2019, Kevin Gori",
+    "importPaths": ["BioD"],
+	"dependencies": {
+		"biod": {"versions": "~>0.2.2", "path": "./BioD"}
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "d_telbam"
+}
